@@ -1,4 +1,4 @@
-# XSPF Prose Extension Specification v1
+# XSPF Prose Extension Specification v1.1
 
 **Namespace URI:** `https://github.com/verkaro/xspf-prose/tree/v1.1`
 
